@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Smith's speech in Parliament made in the House of Commons on VVednesday the 29 of December, 1641 concerning the late tumultuous assemblies about the Parliament Houses.</title>
+            <title>Speech in Parliament made in the House of Commons on Wednesday the 29 of December, 1641</title>
+            <author>Smith, Philip, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60512</idno>
+            <idno type="STC">Wing S4145</idno>
+            <idno type="STC">ESTC R12950</idno>
+            <idno type="EEBO-CITATION">13017779</idno>
+            <idno type="OCLC">ocm 13017779</idno>
+            <idno type="VID">96591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 259:E199, no 46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Smith's speech in Parliament made in the House of Commons on VVednesday the 29 of December, 1641 concerning the late tumultuous assemblies about the Parliament Houses.</title>
+                  <title>Speech in Parliament made in the House of Commons on Wednesday the 29 of December, 1641</title>
+                  <author>Smith, Philip, d. 1664.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96591:1"/>
+            <pb facs="tcp:96591:1" rendition="simple:additions"/>
+            <p> M<hi rend="sup">r.</hi> SMITH'S SPEECH In Parliament, made in the Houſe of Commons, On VVedneſday the 29. of DECEMBER, 1641.</p>
+            <p>Concerning the late tumultuous Aſſemblies about the Parliament Houſes.</p>
+            <p>LONDON, Printed for <hi>A. R.</hi> 1641.</p>
+            <pb facs="tcp:96591:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:96591:2"/>
+            <head>Maſter <hi>Smith</hi> his Speech the 29, of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1641.</head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He buſineſſe wee have now in agitation con<g ref="char:EOLhyphen"/>cerning the <hi>Iriſh</hi> Affaires, and the Treatie with the <hi>Scottiſh</hi> Commiſſioners for their timely aſſiſtance of Ayde (being to be de<g ref="char:EOLhyphen"/>termined this day) is of great conſequence and weight, even of ſuch importance, that I have not read of greater, when the greateſt troubles were in that King<g ref="char:EOLhyphen"/>dome in <hi>Queene Elizabeth</hi> her Reigne of good Memory, theſe troubles with them being comparatively ſimilized are of farre greater danger; And I would to God wee might ſo agree with the Lords, that a ſpeedy concurrence might be with the <hi>Scots,</hi> towards their reliefe in <hi>Ireland.</hi>
+            </p>
+            <pb n="2" facs="tcp:96591:3"/>
+            <p> Yet notwithſtanding (Maſter Speaker) the greatneſſe of this Rebellion and moſt outragious Cruelties committed daily by the Rebels, hazarding neerly the loſſe of that Kingdome (without ſpeedy helpe, which takes up all our debates and arguments) if we remove not therewithall ſuch impediments here at home, as doe hinder our ſpeedie pro<g ref="char:EOLhyphen"/>ceeding not only in that buſineſſe, but in the ſetling of the peace and quiet of this Kingdome, all our endevours in the ſuppreſſing the Rebels in <hi>Ireland</hi> will little availe.</p>
+            <div type="part">
+               <opener>
+                  <salute>Maſter Speaker,</salute>
+               </opener>
+               <p>Vnder favour of this honourable Aſſembly I entend to give you a touch of ſuch Lets which doe much hinder us, as I (conceive) in expediting the great Affaires of Church and State, and our proceedings againſt ſuch Incendiaries and Delinquents in the ſame.</p>
+               <p>We have daily you know, Maſter Speaker, received Pe<g ref="char:EOLhyphen"/>titions from the Citizens of <hi>London,</hi> ſome of them having been delivered by good hands, and men of good worth and qualitie, which wee have willingly taken, and I doubt not but we ſhall in due time give them good ſatisfaction in anſwering of them.</p>
+               <p>Likewiſe wee have received Petitions from abrupt and diſordered perſons without any matter that may deſerve our conſideration, but are more fitter to be rejected as I un<g ref="char:EOLhyphen"/>der favour conceive.</p>
+               <pb n="3" facs="tcp:96591:3"/>
+               <p> But Maſter Speaker, that which I intend to intimate to you, as the greateſt ſtoppe in our proceedings, is the riotous, and tumultuous Aſſembly of vaine and idle perſons, who preſume to begirt our Houſe, not only in an irregular manner to preferre their Petitions, but with open clamour would preſcribe us what lawes to in act, and what not; and what perſons to proſecute, and who not.</p>
+               <p>Theſe tumultuous perſons, Maſter Speaker, take up a great deale of our pretious time in Anſwering and appeaſing of them, when as I conceive other buſineſſe more neerly concerning the welfare and ſecurity of his Sacred Majeſty, and his Kingdomes, lyes even as it were gaſping, and ready to periſh for want of our timely aſſiſtance.</p>
+               <p>Maſter Speaker, Our Patience I perſwade my ſelfe is one of the greateſt cauſes that Animates, and encou<g ref="char:EOLhyphen"/>rages theſe illegall outrages, and if ſome rebukes were miniſtred from the Houſe to them, they would not ſure<g ref="char:EOLhyphen"/>ly bee ſo Audacious.</p>
+               <p>It is true Maſter Speaker, I confeſſe it, that their Tra<g ref="char:EOLhyphen"/>ding is decayed, and hard for them, (many of them) to ſubſiſt with their Families, by reaſon of the ſlow pro<g ref="char:EOLhyphen"/>ceedings againſt Delinquents, the reaſon whereof they are uncapable of, neither as I conceive ſhould they bee made acquainted therewith; otherwiſe then to under<g ref="char:EOLhyphen"/>ſtand that their unſeaſonable, and unfitting repaire to the
+<pb n="4" facs="tcp:96591:4"/> Houſe, is one principall cauſe thereof.</p>
+               <p>Therefore Sir, I conceive if ſome ſpeedy courſe were taken for the ſuppreſſing theſe tumults, by a ſtrict guard about the Houſe, with a Command, not only by perſwa<g ref="char:EOLhyphen"/>ſions to avert their reſort hither, but to ſhoot at them if they obſtinately refuſe to bee perſwaded, it will bee the beſt and ſpeedieſt meanes to repell them.</p>
+               <p>Likewiſe that in the Citie of <hi>London</hi> and Suburbs (by ſome truſty Officers, appointed by the Houſe for that ſervice) diligent ſearch may be made for Papiſts and Re<g ref="char:EOLhyphen"/>cuſants to apprehend them, if they find them Armed with any weapons, and bring them before a Committee for Examination appointed for that purpoſe. Which is my humble motion,</p>
+               <p>For, Maſter Speaker, the Papiſts reſort as well as others hither to ſeverall places, as I am informed, which as theſe tumultuous perſons pretend, is one great cauſe of their meeting here, which if they perceive, that they bee proſecuted according to the Lawes of this Kingdome in that caſe inacted, they conceive they ſhall have leſſe cauſe to trouble us.</p>
+               <p>And truly Sir, may I ſpeake my mind really herein, I perſwade my ſelfe, that unleſſe the Lawes be put in exe<g ref="char:EOLhyphen"/>cution with ſeverity againſt ſome of the greateſt Recu<g ref="char:EOLhyphen"/>ſants, to make them exemplary to the reſt, and that with ſpeed, neither this Citie, nor other places of this King<g ref="char:EOLhyphen"/>dome
+<pb n="5" facs="tcp:96591:4"/> can bee ſecure from their devilliſh practiſes and plots, and that our too favourable proceeding againſt them, if ſo continued, may cauſe our too late repen<g ref="char:EOLhyphen"/>tance, if any of their perverſe and wicked ſtratagems ſhould take effect, which God forbid, and I heartily wiſh that ſuch courſe may be taken by the bleſſing of the Al<g ref="char:EOLhyphen"/>mighty on our endevours, that for ever all the Inhabi<g ref="char:EOLhyphen"/>tants of his Majeſties Kingdomes that are true Chriſti<g ref="char:EOLhyphen"/>ans, and Loyall Subjects, may lye downe in peace, and riſe in ſafety, to which I ſhall al<g ref="char:EOLhyphen"/>wayes ſay, Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
